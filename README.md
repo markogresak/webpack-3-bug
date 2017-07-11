@@ -1,3 +1,11 @@
+# FIX:
+
+Define `context` key in `webpack.DllPlugin`.
+
+See `fixed` branch for example.
+
+__Thanks to @enapupe for suggesting this fix in [webpack/webpack#5095](https://github.com/webpack/webpack/issues/5095).__
+
 ## An example environment reproducing an error with webpack 3
 
 Using most of our production config without actual code. There are most likely some unused parts but I tried to leave most of the code as-is to be as similar to the actual project as possible.
