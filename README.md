@@ -1,5 +1,7 @@
 ## An example environment reproducing an error with webpack 3
 
+> Demonstrating issue [webpack#5095](https://github.com/webpack/webpack/issues/5095)
+
 Using most of our production config without actual code. There are most likely some unused parts but I tried to leave most of the code as-is to be as similar to the actual project as possible.
 
 ### Error message:
